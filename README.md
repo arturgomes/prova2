@@ -132,7 +132,7 @@ A porcentagem de acertos é proporcional ao número de testes aprovados em rela�
 Abaixo está a estrutura básica do projeto:
 
 ```
-estruturas_dados_js/
+prova2/
 ├── src/
 │   ├── Fila.js                         # Classe para fila
 │   ├── Node.js                         # Classe base para os nós das estruturas
