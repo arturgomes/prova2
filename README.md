@@ -68,7 +68,7 @@ code .
 
 ### 2. Instale as Dependências
 
-Certifique-se de ter o Node.js instalado. Em seguida, execute:
+Agora abra o terminal do VS Code e execute:
 
 ```bash
 npm install
