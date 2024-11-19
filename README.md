@@ -207,6 +207,6 @@ Neste exemplo:
 
 1. **Não altere ou remova os `throw` no código.** Eles foram colocados para proteger as estruturas de dados e garantir que os testes automatizados sejam aprovados.
 2. **Leia atentamente as mensagens lançadas pelos `throw`.** Elas ajudam a identificar problemas e corrigir possíveis falhas no seu código.
-3. Concentre-se em completar os métodos incompletos (`// ...`) e em garantir que todas as condições sejam verificadas antes de executar uma operação 19/11/2024 - 22h40.
+3. Concentre-se em completar os métodos incompletos (`// ...`) e em garantir que todas as condições sejam verificadas antes de executar uma operação.
 
 Se precisar de ajuda para entender o uso do `throw` em alguma parte do código, pergunte ao professor! 🚀
